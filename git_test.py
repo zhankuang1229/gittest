@@ -6,6 +6,7 @@ def hello_python():
     print("master test!")
     print("hot-fix commit")
     print('push test')
+    print('pull test')
 
 
 hello_python()
