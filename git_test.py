@@ -5,6 +5,7 @@ def hello_python():
     print("Bye, Python!")
     print("master test!")
     print("hot-fix commit")
+    print('push test')
 
 
 hello_python()
