@@ -3,6 +3,7 @@ def hello_python():
     print("This is a function in Python.")
     print("Let's learn more about functions.")
     print("Bye, Python!")
+    print("master test!")
 
 
 hello_python()
