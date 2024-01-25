@@ -4,6 +4,7 @@ def hello_python():
     print("Let's learn more about functions.")
     print("Bye, Python!")
     print("master test!")
+    print("hot-fix commit")
 
 
 hello_python()
